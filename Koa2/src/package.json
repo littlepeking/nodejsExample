@@ -1,0 +1,11 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "koa2 learning",
+  "main": "cb-promise.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "john",
+  "license": "ISC"
+}
